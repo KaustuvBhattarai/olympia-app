@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860712435761",
+    "project_id": "olympia-rev-62bff",
+    "storage_bucket": "olympia-rev-62bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860712435761:android:27148b809039accf43d510",
+        "android_client_info": {
+          "package_name": "com.example.olympia_rev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTbZnfMeR-NP0mOvVrj1Wt8TARqkz5PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
